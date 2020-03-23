@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.css": "/static/css/main.64bf5cc5.chunk.css",
-    "main.js": "/static/js/main.a200b75e.chunk.js",
-    "main.js.map": "/static/js/main.a200b75e.chunk.js.map",
+    "main.css": "/static/css/main.b2e669c9.chunk.css",
+    "main.js": "/static/js/main.032071a1.chunk.js",
+    "main.js.map": "/static/js/main.032071a1.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.bb0d49c7.js",
     "runtime-main.js.map": "/static/js/runtime-main.bb0d49c7.js.map",
     "static/js/2.90c646db.chunk.js": "/static/js/2.90c646db.chunk.js",
     "static/js/2.90c646db.chunk.js.map": "/static/js/2.90c646db.chunk.js.map",
     "index.html": "/index.html",
-    "precache-manifest.bdb1648c3a08086c176077753f711159.js": "/precache-manifest.bdb1648c3a08086c176077753f711159.js",
+    "precache-manifest.20ae878287c4336aa1387527d597d1d0.js": "/precache-manifest.20ae878287c4336aa1387527d597d1d0.js",
     "service-worker.js": "/service-worker.js",
-    "static/css/main.64bf5cc5.chunk.css.map": "/static/css/main.64bf5cc5.chunk.css.map",
+    "static/css/main.b2e669c9.chunk.css.map": "/static/css/main.b2e669c9.chunk.css.map",
     "static/js/2.90c646db.chunk.js.LICENSE.txt": "/static/js/2.90c646db.chunk.js.LICENSE.txt",
     "static/media/whatsapp.svg": "/static/media/whatsapp.2cc4c3e7.svg"
   },
   "entrypoints": [
     "static/js/runtime-main.bb0d49c7.js",
     "static/js/2.90c646db.chunk.js",
-    "static/css/main.64bf5cc5.chunk.css",
-    "static/js/main.a200b75e.chunk.js"
+    "static/css/main.b2e669c9.chunk.css",
+    "static/js/main.032071a1.chunk.js"
   ]
 }
