@@ -1772,7 +1772,23 @@ var PDFViewerApplication = {
 exports.PDFViewerApplication = PDFViewerApplication;
 var validateFileURL;
 {
-  var HOSTED_VIEWER_ORIGINS = ['null', 'http://mozilla.github.io', 'https://mozilla.github.io'];
+  //var HOSTED_VIEWER_ORIGINS = [
+		//'null',
+		//'http://mozilla.github.io',
+		//'https://mozilla.github.io'
+	//];
+
+  const HOSTED_VIEWER_ORIGINS = [
+  	"null",
+  	"http://mozilla.github.io",
+  	"https://mozilla.github.io",
+  	"https://assets.ctfassets.net",
+  	"http://localhost:3000",
+  	"https://carefree-venture.netlify.com",
+  	"https://carefree-venture.netlify.app"
+  ];
+
+
 
   validateFileURL = function validateFileURL(file) {
     if (file === undefined) {
